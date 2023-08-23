@@ -1,5 +1,5 @@
 ## Hi there 👋
-### I'm Ajanta Maurya, below if my brief intro
+### I'm Ajanta Maurya, below is my brief intro
 
 <!--
 **AjantaMaurya/AjantaMaurya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
